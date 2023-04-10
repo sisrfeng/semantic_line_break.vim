@@ -10,3 +10,5 @@
 
 setlocal formatexpr=bucky#md#format()
 
+set formatprg=python3\ ~/PL/SemanticLineBr.vim/sent_tokenize.py\|par\ 78p2dh
+
