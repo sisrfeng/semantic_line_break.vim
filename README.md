@@ -1,6 +1,21 @@
 
-pip3 install spacy
+To make long sentences, which may contain long clauses, easier to understand,
+especially for Chinese people,
+this plugin uses spaCy,
+    a NLP lib written in python code, to split the text.
+For a paragraph of long sentences,
+the plugin will insert line break at punctuations and  stopwords,
+which can be  configured,
+to get only 1 clause per line.   
+
+
+
+pip3 install spacy 
 python3 -m spacy download en_core_web_sm
+
+
+
+
 
 
 
