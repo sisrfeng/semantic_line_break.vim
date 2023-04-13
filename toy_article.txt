@@ -1,0 +1,12 @@
+1. 我是前半句, 我是后半句.
+If you do enough work in any sort of free software environment, you get used to
+doing lots of writing of documentation or all sorts of other things in some
+plaintext system which exports to some non-plaintext system.  One way or
+another you have to decide: are you going to wrap your lines with newlines?
+And of course the answer should be "yes" because lines that trail all the way
+off the edge of your terminal is a sin against the plaintext gods, who are
+deceptively mighty, and whose wrath is to be feared (and blessings to be
+embraced).  So okay, of course one line per paragraph is off the table.  So
+what do you do?
+2. 我是前半句, 我是后半句.
+
